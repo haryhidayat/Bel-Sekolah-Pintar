@@ -1,0 +1,5 @@
+{
+  "name": "Bel Sekolah Pintar",
+  "description": "Sistem bel sekolah harian otomatis dengan jadwal dinamis dan penyimpanan MP3 lokal.",
+  "requestFramePermissions": []
+}
